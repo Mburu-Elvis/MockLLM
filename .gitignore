@@ -1,0 +1,10 @@
+*.pdf
+*.json
+key.txt
+output.txt
+response
+.env
+flagged
+.venv
+.idea
+*.jpeg
