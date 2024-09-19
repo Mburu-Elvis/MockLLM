@@ -14,7 +14,7 @@ import os
 
 from langchain_openai import ChatOpenAI
 
-llm = ChatOpenAI(model="gpt-3.5-turbo-0125", api_key="sk-proj-qRr2OhbnppHJ5uPvtW3hT3BlbkFJfYiu81jN0Rtt3xGf7ADk")
+llm = ChatOpenAI(model="gpt-3.5-turbo-0125", api_key="")
 
 # Load, chunk and index the contents of the blog.
 loader = WebBaseLoader(
